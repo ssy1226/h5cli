@@ -1,17 +1,17 @@
 {
-  "_from": "@cicc/ant",
-  "_id": "@cicc/ant@0.0.1",
+  "_from": "@ssy/ant",
+  "_id": "@ssy/ant@0.0.1",
   "_inBundle": false,
   "_integrity": "sha1-m121VTAeIS/GkKaMeC9x2SnXT4A=",
-  "_location": "/@cicc/ant",
+  "_location": "/@ssy/ant",
   "_phantomChildren": {},
   "_requested": {
     "type": "tag",
     "registry": true,
-    "raw": "@cicc/ant",
-    "name": "@cicc/ant",
-    "escapedName": "@cicc%2fant",
-    "scope": "@cicc",
+    "raw": "@ssy/ant",
+    "name": "@ssy/ant",
+    "escapedName": "@ssy%2fant",
+    "scope": "@ssy",
     "rawSpec": "",
     "saveSpec": null,
     "fetchSpec": "latest"
@@ -58,7 +58,7 @@
   },
   "license": "ISC",
   "main": "index.js",
-  "name": "@cicc/ant",
+  "name": "@ssy/ant",
   "scripts": {
     "build": "sh ./bin/build.sh",
     "clean": "ts-clean",
